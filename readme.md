@@ -1,11 +1,13 @@
 ## LM3886 Mauro + Vidalgo
 
+![lm3886-mauro-vidalgo](./images/0032.JPG)
+
 ### Description
 Simple audio amplifier based on lm3886 chip. 
 With power supply and protect circuit on board. 
 Good solutions for ative crossovers.
 
-### Original source
+### Source
 [https://diyaudio.by/audio/amplifiers/usilitel-lm3886-mauro-vidalgo/](https://diyaudio.by/audio/amplifiers/usilitel-lm3886-mauro-vidalgo/)
 
 ### Authors
