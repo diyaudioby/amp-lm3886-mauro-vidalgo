@@ -4,9 +4,7 @@
 
 ### Description
 Simple audio amplifier based on lm3886 chip.
-
 With power supply and protect circuit on board. 
-
 Good solutions for ative crossovers.
 
 ### Links
