@@ -3,16 +3,17 @@
 ![lm3886-mauro-vidalgo](./images/0032.JPG)
 
 ### Description
-Simple audio amplifier based on lm3886 chip. 
+Simple audio amplifier based on lm3886 chip.
+
 With power supply and protect circuit on board. 
+
 Good solutions for ative crossovers.
 
-### Source
-[https://diyaudio.by/audio/amplifiers/usilitel-lm3886-mauro-vidalgo/](https://diyaudio.by/audio/amplifiers/usilitel-lm3886-mauro-vidalgo/)
+### Links
+- [https://diyaudio.by/audio/amplifiers/usilitel-lm3886-mauro-vidalgo/](https://diyaudio.by/audio/amplifiers/usilitel-lm3886-mauro-vidalgo/)
 
 ### Authors
-- Shematic design - Vitaly Ovseitsev
-- PCB design - Vitaly Ovseitsev
+- Shematic and PCB design - Vitaly Ovseitsev
 
 ### Buy parts for assembling
 - [Order PCB from PCBWay](https://www.pcbway.com/project/shareproject/lm3886_mauro_vidalgo.html)
